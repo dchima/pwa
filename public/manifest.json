@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "PWA",
+  "name": "PWA",
   "icons": [
     {
       "src": "/images/icons-512.png",
@@ -24,7 +24,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://kt-pwa.netlify.app",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
